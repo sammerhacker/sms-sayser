@@ -1,5 +1,5 @@
 # sms-sayser
-เหมือนเดิมเเต่ยิงไวขึ้น
+มีsms+callลองใช้กัน
 
 git clone https://github.com/sammerhacker/sms-sayser
 
